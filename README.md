@@ -20,7 +20,7 @@ Desarrollo aplicaciones web con tecnologías como:
 - ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 
-### 🌱 Actualmente aprendiendo:
+### 🌱 Actualizado conocimientos sobre:
 
 - Las últimas versiones de **Spring** para aplicaciones backend más escalables y eficientes.
 - Las últimas versiones de **Angular** para construir interfaces de usuario interactivas y modernas.
