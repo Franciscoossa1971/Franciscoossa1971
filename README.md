@@ -36,14 +36,11 @@ Desarrollo aplicaciones web con tecnologías como:
 - **LinkedIn**: https://www.linkedin.com/in/francisco-javier-de-la-ossa-marquez/
 - **Email**:
 
----
-
 
 
 ### 👾 ¡Contribuciones bienvenidas!
 
 Siempre estoy abierto a nuevas ideas y colaboraciones.
 
----
 
 ¡Gracias por visitar mi perfil! 😊
